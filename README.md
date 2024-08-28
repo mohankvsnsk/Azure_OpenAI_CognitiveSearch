@@ -1,4 +1,3 @@
----
 name: ChatGPT + Enterprise data
 description: Chat with your data using OpenAI and AI Search.
 languages:
@@ -12,8 +11,7 @@ products:
 - azure-app-service
 - azure
 page_type: sample
-urlFragment: azure-search-openai-demo
----
+URL fragment: azure-search-openai-demo
 
 
 # ChatGPT + Enterprise data with Azure OpenAI and AI Search
